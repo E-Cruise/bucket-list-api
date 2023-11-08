@@ -1,0 +1,22 @@
+{
+  "name": "bucket-list-api",
+  "version": "1.0.0",
+  "description": "This is bucket list api to create, read, update and delete items from a bucket list.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/E-Cruise/bucket-list-api.git"
+  },
+  "author": "Okello Eric",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/E-Cruise/bucket-list-api/issues"
+  },
+  "homepage": "https://github.com/E-Cruise/bucket-list-api#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
